@@ -229,7 +229,7 @@ header a {
 #top {
   display: none;
   position: fixed;
-  right: 1%;
+  right: 3%;
   bottom: 2%;
   cursor: pointer;
   z-index: 10;
